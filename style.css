@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: comic sans MS;
+}
+
+img {
+  width: 400px;
+    border-radius: 20%;
+}
+.how-to{
+  text-align: left;
+  background-color: white;
+  display: flex;
+   }
+
+.advanced-techniques{
+  display: flex;
+}
+
+.1v1-guide{
+  display: flex;
+}
+
+.ZeRo-vs-Nairo{
+  display: flex;
+}
